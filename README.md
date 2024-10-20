@@ -1,6 +1,8 @@
 
 ## 🚀 Deploying Django with PostgreSQL, Cron Jobs, and Nginx in Docker Compose with Static Files Serving
 
+![django docker](https://github.com/user-attachments/assets/62ddb18f-d96a-4ce6-8607-d5acab7a8002)
+
 In this guide, we'll walk through how to deploy a **Django** application with **PostgreSQL**, **Cron jobs**, and **Nginx** in Docker containers. This setup provides a robust environment for scalable web applications with background task handling and efficient static file serving.
 
 ### 1. **Why Use Docker for Django Deployment?** 🐳
